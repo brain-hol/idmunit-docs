@@ -12,6 +12,7 @@ export default defineConfig({
     markdown: {
         theme: 'nord',
     },
+    base: '/idmunit-docs/'
 })
 
 function sidebarConnectors(): DefaultTheme.Sidebar {
