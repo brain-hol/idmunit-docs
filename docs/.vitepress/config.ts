@@ -33,6 +33,7 @@ function sidebarConnectors(): DefaultTheme.Sidebar {
                 { text: 'JMS', link: '/connectors/jms'},
                 { text: 'Mail', link: '/connectors/mail'},
                 { text: 'MockShim', link: '/connectors/mockshim'},
+                { text: 'OpenIDM', link: '/connectors/openidm'},
             ]
         }
     ]
